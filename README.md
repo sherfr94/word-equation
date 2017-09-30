@@ -3,9 +3,13 @@ Macros for fluent equation insert in MS Word
 
 # Purpose: 
 Create a fluent way for inserting equations in MS Word.
+
 You will create 2 macros:
-Pressing ALT+Z inserts new equation and changes keyboard language to English.
-Pressing ALT+X exits equation, and changes language to Hebrew
+
+1. Pressing ALT+Z inserts new equation and changes keyboard language to English.
+
+2. Pressing ALT+X exits equation, and changes language to Hebrew.
+
 Note: Keyboard shortcut can be changed to your preference.
 
 # Instructions:
